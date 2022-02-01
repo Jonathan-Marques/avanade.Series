@@ -1,2 +1,2 @@
 # avanade.Series
-Criando uma APP de cadastro de Series 
+Criando uma APP de cadastro de Series em C#
