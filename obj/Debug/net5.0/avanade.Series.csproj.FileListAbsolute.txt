@@ -1,0 +1,5 @@
+C:\Users\dota-\avanade.Series\obj\Debug\net5.0\avanade.Series.csproj.AssemblyReference.cache
+C:\Users\dota-\avanade.Series\obj\Debug\net5.0\avanade.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dota-\avanade.Series\obj\Debug\net5.0\avanade.Series.AssemblyInfoInputs.cache
+C:\Users\dota-\avanade.Series\obj\Debug\net5.0\avanade.Series.AssemblyInfo.cs
+C:\Users\dota-\avanade.Series\obj\Debug\net5.0\avanade.Series.csproj.CoreCompileInputs.cache
